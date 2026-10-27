@@ -1,0 +1,24 @@
+{
+  "name": "avf2",
+  "version": "1.0.0",
+  "description": "Aplicação Node.js desenvolvida com Express para a AVF2.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThiagoYan-1207/AVF2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ThiagoYan-1207/AVF2/issues"
+  },
+  "homepage": "https://github.com/ThiagoYan-1207/AVF2#readme",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
