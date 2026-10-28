@@ -6,7 +6,7 @@ const port = process.env.PORT || 3000;
 app.get('/', (req, res) => {
     res.send(`
         <h1>Página Inicial (Home)</h1>
-        <p>Bem-vindo ao projeto AVF2!</p>
+        <p>Bem-vindo ao projeto AVF2 Ao vivo!</p>
         <hr>
         <a href="/">Home</a> | 
         <a href="/sobre">Sobre</a> | 
